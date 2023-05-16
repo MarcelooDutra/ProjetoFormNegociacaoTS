@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "target": "ES6",
+        "strict": true,
+        "noEmitOnError": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true
+    },
+
+    "include": [
+        "app/**/*"
+    ]
+}
